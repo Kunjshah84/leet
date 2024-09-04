@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     //Euplexdivision algo/:
-    int n1=5,n2=10;
+    int x=5,y=10;
     while(x>0 && y>0){
         if(x>y)
             x=x%y;
