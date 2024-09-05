@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Kunjshah84/leet/tree/master/0090-subsets-ii) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
 ## String
 |  |
 | ------- |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
+## Math
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
