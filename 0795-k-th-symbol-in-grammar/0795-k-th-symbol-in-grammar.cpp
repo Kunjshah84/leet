@@ -5,13 +5,7 @@ class Solution {
             if(k%2)
                 return 0;
             else return 1;
-        int t=get(n-1,((k/2)+k%2));
-        if(t==0)
-            if(k%2==0) return 1;
-            else return 0;
-        else
-            if(k%2==0) return 0;
-            else return 1;
+        return (get(n-1,((k/2)+k%2))) ? ((k%2) ? 1: 0) : ((k%2) ? 0: 1);
     }
 
 public:
