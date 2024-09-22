@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Kunjshah84/leet/tree/master/0155-min-stack) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Tree
 |  |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Kunjshah84/leet/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
