@@ -11,7 +11,7 @@ using namespace std;
         stack(int size){
             int *arr=new int[size];
             top=-1;
-            int size=size;
+            this->size=size;
         }
         void push(int ele){ 
             if(top==size-1){

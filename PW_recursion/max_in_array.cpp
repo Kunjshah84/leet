@@ -4,7 +4,6 @@ using namespace std;
 
 int maxval(int arr[],int ind,int n){
     if(ind==n)
-        return INT16_MIN;
     return max(arr[ind],maxval(arr,ind+1,10));
 }
 

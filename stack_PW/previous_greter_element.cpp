@@ -11,8 +11,11 @@ int main(){
         while(!s.empty() && s.top()<=arr[i])
             s.pop();
         if(s.empty())   arr2[i]=-1;
-        else    arr2[s.top()];
+        else    arr2[i]=s.top();
         s.push(arr[i]);
     }
+    for(int i=0;i<10;i++)
+        cout<<arr2[i]<<" ";
+    cout<<endl;
     return 0;
 }
