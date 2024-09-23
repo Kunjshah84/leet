@@ -1,28 +1,31 @@
 class MinStack {
+
+    //this is the second method to solve this question 
+    //Using Vector:
+
 public:
-    stack<int> s;
-    stack<int> helper;
+    vector<int> v;
     MinStack() {
         
     }
     
     void push(int val) {
-        s.push(val);
-        if(!helper.empty() && val>helper.top()) helper.push(helper.top());
-        else helper.push(val);
+        v.push_back(val);
     }
     
     void pop() {
-        s.pop();
-        helper.pop();
+        v.pop_back();
     }
     
     int top() {
-        return s.top();
+        return v[v.size()-1];
     }
     
     int getMin() {
-        return helper.top();
+        int minv=v[0];
+        for(auto it:v)
+            minv=min(it,minv);
+        return minv;
     }
 };
 
