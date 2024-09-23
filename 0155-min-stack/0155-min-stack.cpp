@@ -1,31 +1,37 @@
 class MinStack {
-
-    //this is the second method to solve this question 
-    //Using Vector:
-
+    //Now we are going to solve this question in O(1) time complexity:
 public:
-    vector<int> v;
+    stack<long long> s;
+    long long min_val;
     MinStack() {
-        
+        min_val=LLONG_MAX;
     }
     
     void push(int val) {
-        v.push_back(val);
+        long long x=(long long)val;
+        if(s.size()==0){
+            s.push(x);
+            min_val=x;
+        }
+        else if(val>=min_val)   s.push(x);
+        else{
+            s.push(2*x - min_val);
+            min_val=x;
+        }
     }
     
     void pop() {
-        v.pop_back();
+        if(s.top()<min_val)    min_val=2*(min_val)-s.top();
+        s.pop();
     }
     
     int top() {
-        return v[v.size()-1];
+        if(s.top()<min_val) return min_val;
+        return s.top();
     }
     
     int getMin() {
-        int minv=v[0];
-        for(auto it:v)
-            minv=min(it,minv);
-        return minv;
+        return min_val;
     }
 };
 
