@@ -11,9 +11,9 @@ int presi(char op){
 
 string get(string v1,string v2,char ch){
     string temp="";
-    temp+=ch;
     temp+=v1;
     temp+=v2;
+    temp+=ch;
     return temp;
 }
 
@@ -59,6 +59,6 @@ int main(){
         num.push(get(v1,v2,op.top()));
         op.pop();
     }
-    cout<<"The converted prefix expression from infix is:-"<<num.top()<<endl;
+    cout<<"The converted postfix expression from infix is:-"<<num.top()<<endl;
     return 0;
 }
