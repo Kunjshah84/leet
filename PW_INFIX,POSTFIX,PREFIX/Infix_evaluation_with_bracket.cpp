@@ -22,7 +22,7 @@ int cal(int v1,int v2,char temp){
 int main(){
     stack<int> num;
     stack<char> op;
-    string s="1+(2+6)*4/8-3";
+    string s="(7+9)*4/8-3";
     cout<<"HELLo"<<endl;
     for(int i=0;i<s.length();i++){
         if(isdigit(s[i]))   
