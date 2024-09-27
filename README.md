@@ -23,6 +23,7 @@
 | [0155-min-stack](https://github.com/Kunjshah84/leet/tree/master/0155-min-stack) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Kunjshah84/leet/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -64,12 +65,14 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/Kunjshah84/leet/tree/master/0060-permutation-sequence) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Kunjshah84/leet/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunjshah84/leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Kunjshah84/leet/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -90,4 +93,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
+## Linked List
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/Kunjshah84/leet/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
