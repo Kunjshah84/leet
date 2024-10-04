@@ -17,10 +17,12 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1767-design-front-middle-back-queue](https://github.com/Kunjshah84/leet/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Kunjshah84/leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kunjshah84/leet/tree/master/0001-two-sum) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
@@ -132,4 +134,12 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Kunjshah84/leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sorting
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 <!---LeetCode Topics End-->
