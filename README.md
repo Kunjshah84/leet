@@ -17,10 +17,12 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1767-design-front-middle-back-queue](https://github.com/Kunjshah84/leet/tree/master/1767-design-front-middle-back-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Kunjshah84/leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kunjshah84/leet/tree/master/0001-two-sum) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
@@ -28,6 +30,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Kunjshah84/leet/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Kunjshah84/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kunjshah84/leet/tree/master/0232-implement-queue-using-stacks) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kunjshah84/leet/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -61,6 +64,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
+| [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -88,6 +92,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Kunjshah84/leet/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/Kunjshah84/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kunjshah84/leet/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Kunjshah84/leet/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Kunjshah84/leet/tree/master/0860-design-circular-queue) |
@@ -96,8 +101,10 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kunjshah84/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kunjshah84/leet/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
 | [0859-design-circular-deque](https://github.com/Kunjshah84/leet/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Kunjshah84/leet/tree/master/0860-design-circular-queue) |
 | [1767-design-front-middle-back-queue](https://github.com/Kunjshah84/leet/tree/master/1767-design-front-middle-back-queue) |
@@ -129,4 +136,16 @@
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Kunjshah84/leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Two Pointers
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Sorting
+|  |
+| ------- |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
