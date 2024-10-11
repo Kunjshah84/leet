@@ -10,12 +10,19 @@
  * };
  */
 class Solution {
+
+    int get(int &ans,TreeNode* root){
+        if(!root)   return 0;
+        int left=get(ans,root->left);
+        int right=get(ans,root->right);
+        ans=max(ans,left+right);
+        return max(left,right)+1; 
+    }
+
 public:
-    bool isSameTree(TreeNode* p, TreeNode* q) {
-        if(!p && !q)    return 1;
-        if((!p && q) || (p && !q) || (p->val!=q->val))  return 0;
-        if(!isSameTree(p->left,q->left))    return 0;
-        if(!isSameTree(p->right,q->right))    return 0;
-        return 1;
+    int diameterOfBinaryTree(TreeNode* root) {
+        int ans=0;
+        get(ans,root);
+        return ans;
     }
 };
