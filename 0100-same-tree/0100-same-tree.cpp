@@ -10,18 +10,12 @@
  * };
  */
 class Solution {
-
-    bool fun(TreeNode* root1,TreeNode* root2){
-        if(!root1 && !root2)    return 1; 
-        if((!root1 && root2) || (root1 && !root2) || root1->val!=root2->val)
-            return 0;
-        if(!(fun(root1->left , root2->left))) return 0;
-        if(!(fun(root1->right , root2->right))) return 0;
-        return 1;
-    }
-
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
-        return fun(p,q);
+        if(!p && !q)    return 1;
+        if((!p && q) || (p && !q) || (p->val!=q->val))  return 0;
+        if(!isSameTree(p->left,q->left))    return 0;
+        if(!isSameTree(p->right,q->right))    return 0;
+        return 1;
     }
 };
