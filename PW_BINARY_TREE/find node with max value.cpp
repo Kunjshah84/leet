@@ -18,6 +18,14 @@ class Node{
         return max(root->val,max(maxv(root->left),maxv(root->right)));
     }
 
+//We can right the function like this also:
+    int maxindiff(Node* root){
+        if(!root)   return -1;
+        int lm=maxindiff(root->left);
+        int rm=maxindiff(root->right);
+        return max(root->val,max(lm,rm));
+    }
+
 int main(){
     Node* a=new Node(1);
     Node* b=new Node(2);
