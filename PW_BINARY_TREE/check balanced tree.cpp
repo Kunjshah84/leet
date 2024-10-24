@@ -20,6 +20,11 @@ void displaytree(Node* root){
     displaytree(root->right);
 }
 
+bool check(Node* root){
+    
+
+}
+
 int main(){
     Node* a=new Node(1);
     Node* b=new Node(2);
@@ -37,5 +42,6 @@ int main(){
     c->right=g;
     g->left=h;
     displaytree(a);
+    cout<<"Yes if the BT is balenced BT:-"<<check(a)<<endl;
     return 0;
 }
