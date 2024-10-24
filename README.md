@@ -45,26 +45,37 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0543-diameter-of-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0543-diameter-of-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -168,6 +179,7 @@
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Greedy
 |  |
 | ------- |
@@ -178,5 +190,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
