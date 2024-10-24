@@ -52,6 +52,11 @@ using namespace std;
         get(root->right,level,cur_level+1);
     }
 
+    int hight(Node* root){
+        if(!root)   return 0;
+        return 1+max(hight(root->left),hight(root->right));
+    }
+
 int main(){
     Node* a=new Node(1);
     Node* b=new Node(2);
@@ -74,6 +79,10 @@ int main(){
     get(a,n,1);
     //Now we can easly do the level order traversal if we know the hight of the tree:
     // Then agian we have to create the function that can find the depth of the tree:
-    
+    cout<<"Doing the BFS on the basis of DFS:"<<endl;
+    for(int i=1;i<=hight(a);i++){
+        get(a,i,1);
+        cout<<endl;
+    }
     return 0;
 }
