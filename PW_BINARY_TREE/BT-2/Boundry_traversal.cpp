@@ -56,6 +56,14 @@ class Node{
         return 1;  
     }
 
+    //Instead of doing this we can right the function of left boundry like this:
+    void print_left_boundry_second_method(Node* root){
+        if(!root)   return ;
+        if(!root->right && !root->left) return ;
+        print_left_boundry_second_method(root->left);
+        if(!root->left) print_left_boundry_second_method(root->right);
+    }
+
     bool print_right_boundry(Node* root,vector<int> ans){
         if(!root)   return 1;
         if(!root->left && !root->right){
