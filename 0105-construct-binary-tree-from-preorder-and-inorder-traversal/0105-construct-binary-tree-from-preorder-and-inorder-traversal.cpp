@@ -11,27 +11,20 @@
  */
 class Solution {
 
-    TreeNode* get(vector<int> pre, vector<int> in,
-    int pl,int ph,int il,int ih){
-        //base condition:
-        if(pl>ph)   return NULL;
-        if(pl==ph)  return new TreeNode(pre[pl]);
-        TreeNode* root=new TreeNode(pre[pl]);
-        //Finding process:
-        int i=il;
-        while(i<=ih){
-            if(in[i]==pre[pl])  break ;
-            i++;
-        }
-        int l=i-il;
-        int r=ih-i;
-        root->left=get(pre,in,pl+1,pl+l,il,i-1);
-        root->right=get(pre,in,pl+l+1,ph,i+1,ih);
+    TreeNode* get(vector<int> pre,vector<int> in,int ps,int pe,int is,int ie){
+        if(ps>pe)   return NULL;
+        if(ps==pe)  return new TreeNode(pre[ps]);
+        TreeNode* root=new TreeNode(pre[ps]);
+        int i=is;
+        while(i<=ie && in[i]!=pre[ps])    i++;
+        int lc=i-is;
+        root->left=get(pre,in,ps+1,ps+lc,is,i);
+        root->right=get(pre,in,ps+lc+1,pe,i+1,ie);
         return root;
     }
 
 public:
     TreeNode* buildTree(vector<int>& pre, vector<int>& in) {
-        return get(pre,in,0,pre.size()-1,0,in.size()-1);
+        return get(pre,in,0,pre.size()-1,0,pre.size()-1);
     }
 };
