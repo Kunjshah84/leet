@@ -14,6 +14,7 @@
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/Kunjshah84/leet/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Kunjshah84/leet/tree/master/0860-design-circular-queue) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kunjshah84/leet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kunjshah84/leet/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
@@ -56,6 +58,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -82,6 +85,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0543-diameter-of-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
 |  |
@@ -205,4 +209,5 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 <!---LeetCode Topics End-->
