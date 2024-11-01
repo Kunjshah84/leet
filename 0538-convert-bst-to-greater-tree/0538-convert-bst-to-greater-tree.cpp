@@ -10,26 +10,15 @@
  * };
  */
 class Solution {
+    int sum=0;
 public:
-
-    int get(TreeNode* root){
-        if(!root)   return 0;
-        return root->val+get(root->left)+get(root->right);
-    }
-
-    void help(TreeNode* root,int &t,int sum){
-        if(!root)   return ;
-        help(root->left,t,sum);
-        int temp=root->val;
-        root->val=sum-t;
-        t+=temp;
-        help(root->right,t,sum);
-    }
-
     TreeNode* convertBST(TreeNode* root) {
-        int sum=get(root),t=0;
-        cout<<sum<<endl;
-        help(root,t,sum);
+        if(!root)   return root;
+        convertBST(root->right);
+        int t=root->val;
+        root->val+=sum;
+        sum+=t;
+        convertBST(root->left);
         return root;
     }
 };
