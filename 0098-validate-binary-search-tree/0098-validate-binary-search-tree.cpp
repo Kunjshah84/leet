@@ -10,21 +10,18 @@
  * };
  */
 class Solution {
-    long long int max_val(TreeNode* root){
-        if(!root)   return LLONG_MIN;
-        return max((long long int)root->val,max(max_val(root->left),max_val(root->right)));
-    }
-    long long int min_val(TreeNode* root){
-        if(!root)   return LLONG_MAX;
-        return min((long long int)root->val,min(min_val(root->left),min_val(root->right)));
-    }
-
+    long long pre=LLONG_MIN;
 public:
     bool isValidBST(TreeNode* root) {
         if(!root)   return 1;
-        if((long long int)root->val>max_val(root->left) 
-        && (long long int)root->val<min_val(root->right) 
-        && (isValidBST(root->left) & isValidBST(root->right)))  return 1;
-        return 0;
+        if(isValidBST(root->left)){
+            if((long long)root->val>pre){
+                pre=(long long)root->val;
+                if(!isValidBST(root->right))    return 0;
+                return 1;
+            }
+            else return 0;
+        }
+        else return 0;
     }
 };
