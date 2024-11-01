@@ -15,9 +15,8 @@ public:
     TreeNode* convertBST(TreeNode* root) {
         if(!root)   return root;
         convertBST(root->right);
-        int t=root->val;
         root->val+=sum;
-        sum+=t;
+        sum=root->val;
         convertBST(root->left);
         return root;
     }
