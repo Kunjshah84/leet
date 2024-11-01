@@ -12,8 +12,7 @@
 class Solution {
 
     TreeNode* get(vector<int> &nums,int s,int e){
-        if(s>e) return NULL;
-        if(s==e)    return new TreeNode(nums[s]);
+        if(s>e || s==e) return s>e ? NULL : new TreeNode(nums[s]); 
         int mid=s+(e-s)/2;
         TreeNode* root=new TreeNode(nums[mid]);
         root->left=get(nums,s,mid-1);
