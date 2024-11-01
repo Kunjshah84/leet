@@ -50,6 +50,7 @@
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -69,6 +70,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0110-balanced-binary-tree) |
@@ -82,6 +84,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -225,6 +228,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0784-insert-into-a-binary-search-tree) |
