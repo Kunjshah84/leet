@@ -11,23 +11,18 @@
  */
 class Solution {
 
-    TreeNode* get(vector<int> &pre,vector<int> &in,
-    int prel,int preh,int inl,int inh,map<int,int> &m){
-        if(prel>preh)   return NULL;
-        if(preh==prel)  return new TreeNode(pre[prel]);
-        TreeNode* root=new TreeNode(pre[prel]);
-        int i=m[pre[prel]],lc=i-inl;
-        root->left=get(pre,in,prel+1,prel+lc,inl,i-1,m);
-        root->right=get(pre,in,prel+lc+1,preh,i+1,inh,m);
+    TreeNode* insert(TreeNode* root,int val){
+        if(!root)   return new TreeNode(val);
+        if(root->val>val)   root->left=insert(root->left,val);
+        else    root->right=insert(root->right,val);
         return root;
     }
 
 public:
     TreeNode* bstFromPreorder(vector<int>& pre) {
-        vector<int> in=pre;
-        sort(in.begin(),in.end());
-        map<int,int> m;
-        for(int i=0;i<in.size();i++)    m[in[i]]=i;
-        return get(pre,in,0,in.size()-1,0,in.size()-1,m);
+        if(!pre.size())   return NULL;
+        TreeNode* root=new TreeNode(pre[0]);
+        for(int i=1;i<pre.size();i++) insert(root,pre[i]);
+        return root;
     }
 };
