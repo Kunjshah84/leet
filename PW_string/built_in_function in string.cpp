@@ -21,10 +21,17 @@ int main(){
     reverse(t.begin()+5,t.end()-4);
     cout<<t<<endl;
 
-    //Starting sub string:--->substr()
+    //Starting sub string:--->substr(starting ind,length of the substring)
 
     string p="kunjRshah";
     cout<<p.substr(4)<<endl; 
+    cout<<p.substr(1,6)<<endl;
+
+
+    //To_string()--->Imp string:
+    //It converts int to string:
+    //We can not directly do the typecasting:
+    
 
     return 0;
 }
