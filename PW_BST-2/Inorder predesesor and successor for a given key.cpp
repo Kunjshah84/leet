@@ -44,6 +44,32 @@ void leveltraversal(TreeNode* root){
         }
     }
 }
+   
+void print_pre_and_succ(TreeNode* root,int val){
+    int suc,pre;
+    while(root->val!=val){
+        if(root->val>val){
+            suc=root->val;
+            root=root->left;
+        }
+        else{
+            pre=root->val;
+            root=root->right;
+        }
+    }
+    TreeNode* left_t=root->left;
+    TreeNode* right_t=root->right;
+    while(left_t){
+        suc=left_t->val;
+        left_t=left_t->right;
+    }
+    while(right_t){
+        suc=right_t->val;
+        right_t=right_t->left;
+    }
+
+    cout<<"The pre and succ is"<<pre<<" "<<suc<<endl; 
+}
 
 int main(){
     TreeNode* root=NULL;
@@ -56,5 +82,7 @@ int main(){
     }while(data!=-1);
     cout<<"The level order traversal of the tree is:-"<<endl;
     leveltraversal(root);
+    cout<<"Printing the inorder predessesor of the number 10 in the given BST"<<endl;
+    print_pre_and_succ(root,10);
     return 0;
 }
