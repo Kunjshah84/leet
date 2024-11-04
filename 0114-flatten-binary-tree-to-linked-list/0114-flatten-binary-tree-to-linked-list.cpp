@@ -10,18 +10,15 @@
  * };
  */
 class Solution {
-    TreeNode* call(TreeNode* root){
-        if(!root)   return NULL;
-        TreeNode* temp=root->right;
-        root->right=call(root->left);
-        root->left=NULL;
-        TreeNode* p=root;
-        while(p->right)  p=p->right;
-        if(temp) p->right=call(temp);
-        return root;
-    }
 public:
     void flatten(TreeNode* root) {
-        call(root);
+        if(!root)   return ;
+        TreeNode* temp=root->right;
+        root->right=root->left;
+        root->left=NULL;
+        TreeNode* p=root;
+        while(p->right)   p=p->right;
+        p->right=temp;
+        flatten(root->right);
     }
 };
