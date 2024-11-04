@@ -10,19 +10,28 @@
  * };
  */
 class Solution {
+
+    void get(TreeNode* &root,int low,int high){
+        if(!root)   return ;
+        while(root->left){
+            if(root->left->val<low)  root->left=root->left->right;
+            else if(root->left->val>high)    root->left=root->left->left;
+            else    break ;
+        }
+        while(root->right){
+            if(root->right->val>high)  root->right=root->right->left;
+            else if(root->right->val<low)    root->right=root->right->right;
+            else    break ;
+        }
+        get(root->left,low,high);
+        get(root->right,low,high);
+    }
+
 public:
     TreeNode* trimBST(TreeNode* root, int low, int high) {
-        if(!root)   return root;
-        root->left=trimBST(root->left,low,high);
-        root->right=trimBST(root->right,low,high);
-        if(root->val<low){
-            root->right=trimBST(root->right,low,high);
-            return root->right;
-        }
-        else if(root->val>high){
-            root->left=trimBST(root->left,low,high);
-            return root->left;
-        }
-        return root;
+        TreeNode* dummy=new TreeNode(INT_MAX);
+        dummy->left=root;
+        get(dummy,low,high);
+        return dummy->left;
     }
 };
