@@ -38,6 +38,6 @@ int main(){
     cout<<"The value of the biggest smaller power of two:-"<<method_1_PW(n)<<endl;
     cout<<"The value of the biggest smaller power of two by using the method 2:-"<<method_2_PW(n)<<endl;
     //Now if we are having the quesion like we have to find the max power of the 2 then we have two mthod:
-    cout<<"The value of the smallest power which is the big then the number by method1"<<method1(n)<<endl;
+    cout<<"The value of the smallest power which is the big then the number by method1:-"<<method1(n)<<endl;
     return 0;
 }

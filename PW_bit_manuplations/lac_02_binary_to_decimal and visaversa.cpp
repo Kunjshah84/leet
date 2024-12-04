@@ -14,7 +14,7 @@ int get2(string n){
 int get_decimal_with_pw(string n){
     int mul=1,ans=0;
     for(int i=n.length()-1;i>=0;mul<<=1,i--)    ans+=((int)n[i]-48)*mul;
-    //for(int i=n.length()-1;i>=0,i--)    ans+=((int)n[i]-48)*(1<<(n-i-1));
+    //for(int i=0;i<n.size(),i++)    ans+=((int)n[i]-48)*(1<<(n-i-1));
     return ans;
 }
 int main(){

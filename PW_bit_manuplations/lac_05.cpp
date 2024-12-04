@@ -15,7 +15,11 @@ using namespace std;
 
     int method_2_Pw(int n){
         //Use the brine method to find just smallest power of 2 and then substrct it with 1:--->
-        return 0;
+        int copy=n;
+        while(n)
+            if(n&(n-1)) n&=(n-1);
+            else    break ;
+        return copy^((n<<1)-1);
     }
 
 int main() {
