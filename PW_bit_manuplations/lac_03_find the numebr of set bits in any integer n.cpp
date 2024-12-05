@@ -21,7 +21,7 @@ int main(){
     //Now we are having the built in method to count the number of set bits:
     cout<<"Logical and less TC consuming method to solve this question"<<endl;
     //In this mehtod the number of iteration is equal to the number of set bit into the decimal number:
-    //The algo is called:----->Biran kernigans algo:
+    //The algo is called:----->Biran kernigals algo:
     int take_another;
     cout<<"enter the value of the variable for time pass"<<endl;
     cin>>take_another;
