@@ -146,6 +146,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Kunjshah84/leet/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/Kunjshah84/leet/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kunjshah84/leet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kunjshah84/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -171,12 +172,14 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/Kunjshah84/leet/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Kunjshah84/leet/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/Kunjshah84/leet/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Kunjshah84/leet/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Kunjshah84/leet/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Kunjshah84/leet/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
