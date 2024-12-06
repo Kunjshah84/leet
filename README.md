@@ -15,6 +15,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0859-design-circular-deque](https://github.com/Kunjshah84/leet/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Kunjshah84/leet/tree/master/0860-design-circular-queue) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -216,10 +217,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -244,11 +247,13 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Greedy
@@ -283,6 +288,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kunjshah84/leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kunjshah84/leet/tree/master/0538-convert-bst-to-greater-tree) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0784-insert-into-a-binary-search-tree) |
