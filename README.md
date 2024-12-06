@@ -174,6 +174,7 @@
 | [0060-permutation-sequence](https://github.com/Kunjshah84/leet/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Kunjshah84/leet/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Kunjshah84/leet/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
 ## Recursion
@@ -247,6 +248,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
+| [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
@@ -288,6 +290,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kunjshah84/leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kunjshah84/leet/tree/master/0538-convert-bst-to-greater-tree) |
+| [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0783-search-in-a-binary-search-tree) |
