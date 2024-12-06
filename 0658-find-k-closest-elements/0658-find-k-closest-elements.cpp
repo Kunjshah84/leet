@@ -1,43 +1,37 @@
 class Solution {
 
-    int get(int s,int e,int target,vector<int> nums){
+    pair<int,int> get(int s,int e,int target,vector<int> nums){
+        while(s<=e){
             int mid=s+(e-s)/2;
-            while(s<=e){
-            mid=s+(e-s)/2;
-            if(nums[mid]==target)   return mid;
-            else if(nums[mid]>target)   e=mid-1;
-            else s=mid+1;
+            if(nums[mid]<target)   s=mid+1;
+            else e=mid-1;
         }
-        if(!s)  return 0;
-        else if(s>=nums.size()) return nums.size()-1;
-        return e;
+        return {e,s};
     }
 
 public:
     vector<int> findClosestElements(vector<int>& nums, int k, int x) {
-        int ind=get(0,nums.size()-1,x,nums);
+        pair <int,int> p=get(0,nums.size()-1,x,nums);
         vector<int> ans;
-        int i=ind,j=ind+1;
-        cout<<ind<<endl;
-        while(k && i>=0 && j<nums.size()){
-            if(abs(x-nums[j])>=abs(x-nums[i])){
-                ans.insert(ans.begin(),nums[i]);
-                i--;
+        while(k && p.first>=0 && p.second<nums.size()){
+            if(abs(x-nums[p.first])<=abs(x-nums[p.second])){
+                ans.insert(ans.begin(),nums[p.first]);
+                p.first--;
             }
             else{
-                ans.push_back(nums[j]);
-                j++;
+                ans.push_back(nums[p.second]);
+                p.second++;
             }
             k--;
         }
-        while(k && i>=0){
-            ans.insert(ans.begin(),nums[i]);
-            i--;
+        while(k && p.first>=0){
+            ans.insert(ans.begin(),nums[p.first]);
+            p.first--;
             k--;
         }
-        while(k && j<nums.size()){
-            ans.push_back(nums[j]);
-            j++;
+        while(k && p.second<nums.size()){
+            ans.push_back(nums[p.second]);
+            p.second++;
             k--;
         }
         return ans;
