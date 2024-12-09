@@ -21,6 +21,7 @@
 | [0860-design-circular-queue](https://github.com/Kunjshah84/leet/tree/master/0860-design-circular-queue) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1138-grumpy-bookstore-owner](https://github.com/Kunjshah84/leet/tree/master/1138-grumpy-bookstore-owner) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kunjshah84/leet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -224,6 +225,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
+| [1138-grumpy-bookstore-owner](https://github.com/Kunjshah84/leet/tree/master/1138-grumpy-bookstore-owner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
