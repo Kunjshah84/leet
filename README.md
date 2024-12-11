@@ -26,6 +26,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kunjshah84/leet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1767-design-front-middle-back-queue](https://github.com/Kunjshah84/leet/tree/master/1767-design-front-middle-back-queue) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunjshah84/leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Kunjshah84/leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -176,6 +177,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [1138-grumpy-bookstore-owner](https://github.com/Kunjshah84/leet/tree/master/1138-grumpy-bookstore-owner) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
