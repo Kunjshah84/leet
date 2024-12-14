@@ -1,14 +1,13 @@
 class Solution {
 public:
     int maxSatisfaction(vector<int>& s) {
-        //Do some mathemethical observations:::: 
-        sort(s.begin(),s.end());
-        if(s[s.size()-1]<=0) return 0;
-        vector<int> suf=s;
-        for(int i=suf.size()-2;i>=0;i--)    suf[i]+=suf[i+1];
-        int ans=0,i=-1;
-        while(suf[++i]<0){}
-        for(int j=s.size()-1;j>=i;j--)  ans+=(s[j]*(j-i+1));
-        return ans;
+        int tillsum=0,fans=0;
+        sort(s.begin(),s.end(),greater<int>());
+        for(auto it:s){
+            tillsum+=it;
+            if(tillsum<0)    return fans;
+            fans+=tillsum;
+        }
+        return fans;
     }
 };
