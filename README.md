@@ -16,6 +16,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Kunjshah84/leet/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/Kunjshah84/leet/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
@@ -189,6 +190,7 @@
 | ------- |
 | [0060-permutation-sequence](https://github.com/Kunjshah84/leet/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kunjshah84/leet/tree/master/0231-power-of-two) |
 | [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Kunjshah84/leet/tree/master/0670-maximum-swap) |
@@ -341,4 +343,12 @@
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Kunjshah84/leet/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3427-special-array-ii](https://github.com/Kunjshah84/leet/tree/master/3427-special-array-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
