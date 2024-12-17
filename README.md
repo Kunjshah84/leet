@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kunjshah84/leet/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunjshah84/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0039-combination-sum](https://github.com/Kunjshah84/leet/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kunjshah84/leet/tree/master/0046-permutations) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunjshah84/leet/tree/master/0084-largest-rectangle-in-histogram) |
@@ -13,20 +14,33 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0137-single-number-ii](https://github.com/Kunjshah84/leet/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
+| [0238-product-of-array-except-self](https://github.com/Kunjshah84/leet/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0859-design-circular-deque](https://github.com/Kunjshah84/leet/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Kunjshah84/leet/tree/master/0860-design-circular-queue) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1138-grumpy-bookstore-owner](https://github.com/Kunjshah84/leet/tree/master/1138-grumpy-bookstore-owner) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kunjshah84/leet/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1767-design-front-middle-back-queue](https://github.com/Kunjshah84/leet/tree/master/1767-design-front-middle-back-queue) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunjshah84/leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Kunjshah84/leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Kunjshah84/leet/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Kunjshah84/leet/tree/master/2294-minimum-time-to-complete-trips) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kunjshah84/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3427-special-array-ii](https://github.com/Kunjshah84/leet/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +49,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/Kunjshah84/leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
@@ -139,6 +154,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Kunjshah84/leet/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Kunjshah84/leet/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Kunjshah84/leet/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
@@ -146,6 +162,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Kunjshah84/leet/tree/master/0090-subsets-ii) |
+| [0137-single-number-ii](https://github.com/Kunjshah84/leet/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Kunjshah84/leet/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kunjshah84/leet/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -162,17 +179,22 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kunjshah84/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Kunjshah84/leet/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunjshah84/leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Kunjshah84/leet/tree/master/2576-minimum-penalty-for-a-shop) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
+| [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Kunjshah84/leet/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kunjshah84/leet/tree/master/0231-power-of-two) |
+| [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Kunjshah84/leet/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
 ## Recursion
@@ -216,10 +238,14 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
+| [1138-grumpy-bookstore-owner](https://github.com/Kunjshah84/leet/tree/master/1138-grumpy-bookstore-owner) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -244,11 +270,17 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
+| [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Greedy
@@ -258,6 +290,8 @@
 | [0670-maximum-swap](https://github.com/Kunjshah84/leet/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kunjshah84/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
+| [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -283,6 +317,8 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kunjshah84/leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kunjshah84/leet/tree/master/0538-convert-bst-to-greater-tree) |
+| [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0669-trim-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -290,6 +326,10 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Kunjshah84/leet/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2294-minimum-time-to-complete-trips](https://github.com/Kunjshah84/leet/tree/master/2294-minimum-time-to-complete-trips) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [3427-special-array-ii](https://github.com/Kunjshah84/leet/tree/master/3427-special-array-ii) |
 ## Trie
 |  |
 | ------- |
@@ -298,4 +338,20 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kunjshah84/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Kunjshah84/leet/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2576-minimum-penalty-for-a-shop](https://github.com/Kunjshah84/leet/tree/master/2576-minimum-penalty-for-a-shop) |
+| [3427-special-array-ii](https://github.com/Kunjshah84/leet/tree/master/3427-special-array-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
