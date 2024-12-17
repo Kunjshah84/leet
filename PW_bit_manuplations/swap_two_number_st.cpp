@@ -4,6 +4,10 @@
 using namespace std;
 
 int main() {
-    //Find the min numebr to be added to make the number to the power of zero:
+    int a=5,b=6;
+    a=a^b;
+    b=a^b;
+    a=a^b;
+    cout<<"The val of a"<<a<<"and "<<b<<endl;
     return 0;
 }

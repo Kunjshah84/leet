@@ -21,7 +21,7 @@ int main(){
     //That means the other char accept the last one is going to intialized with the NULL char:
     cout<<"before"<<(int)arr3[10]<<"After"<<endl;
     //it is going to print the garbage value and on each run it may print the different value:
-    //It may crash the kprogram;
+    //It may crash the program;
     //It is totally depands on the compiler:
 
     //The use of null char at the end of the string;

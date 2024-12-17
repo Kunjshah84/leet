@@ -4,6 +4,8 @@
 using namespace std;
 
 int main() {
-    //Find the min numebr to be added to make the number to the power of zero:
+    int n=13,i=2;
+    cout<<(n-((n&(1<<i)) ? (1<<i) : 0))<<endl;
+    cout<<( n & ~(1<<i) )<<endl;
     return 0;
 }

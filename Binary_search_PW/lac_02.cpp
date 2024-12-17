@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
     vector<int> ans={};
-    int l=0,e=ans.size();
+    int l=0,e=ans.size()-1;
     int target=0;
     while(l<=e){
         int mid=l+(e-l)/2;

@@ -13,7 +13,7 @@ int main() {
         if(mid==ans[mid])   s=mid+1;
         else e=mid-1;   
     }
-    if(ans[s]!=mid) cout<<"The messing first +ve element is:-"<<mid<<endl;
-    else cout<<"No missing in the search space"<<endl;
+    if(s==ans.size())   cout<<"No missing +ve numbers"<<endl;
+    else    cout<<"your missing +ve number is:-"<<s<<endl;
     return 0;
 }

@@ -33,5 +33,13 @@ int main(){
     cout<<"According to the brians kernigans algo:-"<<counter<<endl;
     cout<<"Here is the implementation of the built in method"<<endl;
     cout<<"The number of set bits into the given number is"<<get(n);
+
+    //The another O(n) approach:
+    int counter=0;
+    while(n){
+        counter+=(n&1);
+        n>>1;
+    }
+
     return 0;
 }
