@@ -20,6 +20,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kunjshah84/leet/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0859-design-circular-deque](https://github.com/Kunjshah84/leet/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Kunjshah84/leet/tree/master/0860-design-circular-queue) |
@@ -48,6 +49,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/Kunjshah84/leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
@@ -340,6 +342,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kunjshah84/leet/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Kunjshah84/leet/tree/master/2576-minimum-penalty-for-a-shop) |
 | [3427-special-array-ii](https://github.com/Kunjshah84/leet/tree/master/3427-special-array-ii) |
