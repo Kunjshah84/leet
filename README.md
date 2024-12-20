@@ -17,6 +17,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunjshah84/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Kunjshah84/leet/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@
 | [0001-two-sum](https://github.com/Kunjshah84/leet/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Kunjshah84/leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
@@ -374,4 +376,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
