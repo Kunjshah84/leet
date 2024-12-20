@@ -10,6 +10,7 @@
 | [0039-combination-sum](https://github.com/Kunjshah84/leet/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kunjshah84/leet/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kunjshah84/leet/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunjshah84/leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Kunjshah84/leet/tree/master/0090-subsets-ii) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kunjshah84/leet/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
@@ -380,4 +382,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
