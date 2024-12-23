@@ -23,6 +23,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/Kunjshah84/leet/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Kunjshah84/leet/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
@@ -58,6 +59,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Kunjshah84/leet/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Kunjshah84/leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -294,6 +296,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Kunjshah84/leet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kunjshah84/leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Kunjshah84/leet/tree/master/0780-max-chunks-to-make-sorted) |
@@ -378,6 +381,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Kunjshah84/leet/tree/master/0229-majority-element-ii) |
 ## Union Find
 |  |
 | ------- |
