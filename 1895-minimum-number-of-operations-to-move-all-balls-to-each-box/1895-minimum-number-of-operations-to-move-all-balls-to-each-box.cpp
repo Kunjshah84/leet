@@ -1,20 +1,26 @@
 class Solution {
 public:
     vector<int> minOperations(string str) {
-        vector<int> ans;
+        if(str.size()==1)   return {0};
+        vector<int> prefix(str.size(),0);
+        vector<int> sufix(str.size(),0);
+        vector<int> send(str.size(),0);
+        int cnt=0,ans=0;
         for(int i=0;i<str.size();i++){
-            int cnt=0;
-            int j=0,k=str.size()-1;
-            while(j<i){
-                if(str[j]=='1') cnt+=(i-j);
-                j++;
-            }
-            while(k>i){ 
-                if(str[k]=='1') cnt+=(k-i);
-                k--;
-            }
-            ans.push_back(cnt);
+            if(str[i]=='1') cnt++;
+            ans+=cnt;
+            prefix[i]=ans;
         }
-        return ans;
+        cnt=0;
+        ans=0;
+        for(int i=str.size()-1;i>=0;i--){
+            if(str[i]=='1') cnt++;
+            ans+=cnt;
+            sufix[i]=ans;
+        }
+        send[0]=sufix[1];
+        send[send.size()-1]=prefix[prefix.size()-2];
+        for(int i=1;i<str.size()-1;i++) send[i]=prefix[i-1]+sufix[i+1];
+        return send;
     }
 };
