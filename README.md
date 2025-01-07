@@ -41,6 +41,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kunjshah84/leet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
+| [1524-string-matching-in-an-array](https://github.com/Kunjshah84/leet/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1767-design-front-middle-back-queue](https://github.com/Kunjshah84/leet/tree/master/1767-design-front-middle-back-queue) |
@@ -198,6 +199,7 @@
 | [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kunjshah84/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Kunjshah84/leet/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1524-string-matching-in-an-array](https://github.com/Kunjshah84/leet/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunjshah84/leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kunjshah84/leet/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kunjshah84/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -408,4 +410,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/Kunjshah84/leet/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
