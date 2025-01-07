@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kunjshah84/leet/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Kunjshah84/leet/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kunjshah84/leet/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunjshah84/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Kunjshah84/leet/tree/master/0039-combination-sum) |
@@ -291,6 +292,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kunjshah84/leet/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Kunjshah84/leet/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Kunjshah84/leet/tree/master/0075-sort-colors) |
@@ -301,6 +303,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Kunjshah84/leet/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Kunjshah84/leet/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kunjshah84/leet/tree/master/0229-majority-element-ii) |
