@@ -1,20 +1,20 @@
 class Solution {
 public:
-    vector<vector<int>> merge(vector<vector<int>>& nums) {
-        if(nums.size()==1)  return nums;
-        sort(nums.begin(),nums.end());
+    vector<vector<int>> merge(vector<vector<int>>& inter) {
+        //Now we are going to do the brute force to solve this question:
+        // if(inter.size()==1) return inter;
         vector<vector<int>> ans;
-        int i=0,j=1;
-        while(j<nums.size()){
-            if(nums[i][1]<nums[j][0]){
-                ans.push_back(nums[i]);
-                i=j;
+        sort(inter.begin(),inter.end());
+        for(int i=0;i<inter.size();i++){
+            int start=inter[i][0];
+            int end=inter[i][1];
+            if(!ans.empty()  &&  ans.back()[1]>=end)    continue ;
+            for(int j=i+1;j<inter.size();j++){
+                if(end>=inter[j][0])    end=max(inter[j][1],end);
+                else break ;
             }
-            else if((nums[i][1]>nums[j][0]&&nums[i][1]<nums[j][1])||nums[i][1]==nums[j][0]) 
-                nums[i][1]=nums[j][1];
-            j++;
+            ans.push_back({start,end});
         }
-        ans.push_back(nums[i]);
         return ans;
     }
 };
