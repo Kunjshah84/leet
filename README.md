@@ -24,6 +24,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Kunjshah84/leet/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Kunjshah84/leet/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/Kunjshah84/leet/tree/master/0229-majority-element-ii) |
@@ -211,6 +212,7 @@
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunjshah84/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Kunjshah84/leet/tree/master/0152-maximum-product-subarray) |
 | [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
