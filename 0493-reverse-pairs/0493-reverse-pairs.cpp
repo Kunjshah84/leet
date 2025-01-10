@@ -9,14 +9,8 @@ class Solution {
             if(nums[i]<=nums[j])    temp.push_back(nums[i++]);
             else temp.push_back(nums[j++]);    
         }
-        while(i<=mid){
-            temp.push_back(nums[i]);
-            i++;
-        }
-        while(j<=high){
-            temp.push_back(nums[j]);
-            j++;
-        }
+        while(i<=mid)   temp.push_back(nums[i++]);
+        while(j<=high)  temp.push_back(nums[j++]);
         for(int i=0;i<temp.size();i++)  nums[low++]=temp[i];
     }
 
