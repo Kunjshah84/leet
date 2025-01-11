@@ -207,6 +207,7 @@
 | [1524-string-matching-in-an-array](https://github.com/Kunjshah84/leet/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunjshah84/leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kunjshah84/leet/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2032-largest-odd-number-in-string](https://github.com/Kunjshah84/leet/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kunjshah84/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2576-minimum-penalty-for-a-shop](https://github.com/Kunjshah84/leet/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kunjshah84/leet/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -229,6 +230,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Kunjshah84/leet/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
+| [2032-largest-odd-number-in-string](https://github.com/Kunjshah84/leet/tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kunjshah84/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
 | [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
+| [2032-largest-odd-number-in-string](https://github.com/Kunjshah84/leet/tree/master/2032-largest-odd-number-in-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Breadth-First Search
 |  |
