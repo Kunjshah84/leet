@@ -196,6 +196,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kunjshah84/leet/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
+| [0151-reverse-words-in-a-string](https://github.com/Kunjshah84/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Kunjshah84/leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
@@ -306,6 +307,7 @@
 | [0031-next-permutation](https://github.com/Kunjshah84/leet/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Kunjshah84/leet/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Kunjshah84/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
