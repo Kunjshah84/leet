@@ -201,6 +201,7 @@
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
+| [0812-rotate-string](https://github.com/Kunjshah84/leet/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Kunjshah84/leet/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Kunjshah84/leet/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Kunjshah84/leet/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -425,6 +426,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0812-rotate-string](https://github.com/Kunjshah84/leet/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Kunjshah84/leet/tree/master/1524-string-matching-in-an-array) |
 ## Binary Indexed Tree
 |  |
