@@ -61,6 +61,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kunjshah84/leet/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Kunjshah84/leet/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -194,6 +195,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kunjshah84/leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kunjshah84/leet/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Kunjshah84/leet/tree/master/0151-reverse-words-in-a-string) |
@@ -224,6 +226,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Kunjshah84/leet/tree/master/0013-roman-to-integer) |
 | [0060-permutation-sequence](https://github.com/Kunjshah84/leet/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
