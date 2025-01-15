@@ -195,6 +195,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kunjshah84/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kunjshah84/leet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kunjshah84/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/Kunjshah84/leet/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kunjshah84/leet/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## String
 |  |
@@ -352,6 +353,7 @@
 | [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
 | [2032-largest-odd-number-in-string](https://github.com/Kunjshah84/leet/tree/master/2032-largest-odd-number-in-string) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2509-minimize-xor](https://github.com/Kunjshah84/leet/tree/master/2509-minimize-xor) |
 ## Breadth-First Search
 |  |
 | ------- |
