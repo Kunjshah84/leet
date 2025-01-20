@@ -55,6 +55,7 @@
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kunjshah84/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Kunjshah84/leet/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kunjshah84/leet/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kunjshah84/leet/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kunjshah84/leet/tree/master/2792-neighboring-bitwise-xor) |
@@ -77,6 +78,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kunjshah84/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Kunjshah84/leet/tree/master/2685-first-completely-painted-row-or-column) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kunjshah84/leet/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
@@ -437,6 +439,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Kunjshah84/leet/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
 |  |
 | ------- |
