@@ -239,6 +239,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Kunjshah84/leet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kunjshah84/leet/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Kunjshah84/leet/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Kunjshah84/leet/tree/master/0060-permutation-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Kunjshah84/leet/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
@@ -250,6 +251,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Kunjshah84/leet/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Kunjshah84/leet/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Kunjshah84/leet/tree/master/0231-power-of-two) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
