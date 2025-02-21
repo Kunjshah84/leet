@@ -83,6 +83,7 @@
 | [0268-missing-number](https://github.com/Kunjshah84/leet/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kunjshah84/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2434-design-a-number-container-system](https://github.com/Kunjshah84/leet/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kunjshah84/leet/tree/master/2448-count-number-of-bad-pairs) |
@@ -143,6 +144,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -165,6 +167,7 @@
 | [0975-range-sum-of-bst](https://github.com/Kunjshah84/leet/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Backtracking
 |  |
@@ -296,6 +300,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Kunjshah84/leet/tree/master/0232-implement-queue-using-stacks) |
 | [0859-design-circular-deque](https://github.com/Kunjshah84/leet/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Kunjshah84/leet/tree/master/0860-design-circular-queue) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kunjshah84/leet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1767-design-front-middle-back-queue](https://github.com/Kunjshah84/leet/tree/master/1767-design-front-middle-back-queue) |
 | [2434-design-a-number-container-system](https://github.com/Kunjshah84/leet/tree/master/2434-design-a-number-container-system) |
@@ -400,6 +405,7 @@
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kunjshah84/leet/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
