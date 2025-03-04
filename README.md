@@ -42,6 +42,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1138-grumpy-bookstore-owner](https://github.com/Kunjshah84/leet/tree/master/1138-grumpy-bookstore-owner) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Kunjshah84/leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Kunjshah84/leet/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
 | [1524-string-matching-in-an-array](https://github.com/Kunjshah84/leet/tree/master/1524-string-matching-in-an-array) |
@@ -449,6 +450,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Kunjshah84/leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Kunjshah84/leet/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Kunjshah84/leet/tree/master/2294-minimum-time-to-complete-trips) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
