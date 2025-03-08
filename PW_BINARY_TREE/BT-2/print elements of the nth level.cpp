@@ -74,6 +74,6 @@ int main(){
     get(a,n,1);
     //Now we can easly do the level order traversal if we know the hight of the tree:
     // Then agian we have to create the function that can find the depth of the tree:
-    
+    //That meanse we are able to do the level ordertraversal using the pre like for every level i have to take the call:
     return 0;
 }

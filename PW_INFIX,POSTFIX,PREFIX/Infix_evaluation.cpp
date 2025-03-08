@@ -3,8 +3,8 @@
 //--->          This code is only competeble with basic 4 pperators:
 
 //The expression which is made by Human readable and understandable is called Infix exp
-//The string sontains the different types of operaot;
-//;Like we are having the  ep like this "2*50/4-25" the equation is given in the string we have to solve
+//The string contains the different types of operaot;
+//Like we are having the  ep like this "2*50/4-25" the equation is given in the string we have to solve
 //This string eqution in the form of string and we have to return the ans:
 //And we have to do the infix evaluation to get the ans:
 #include<iostream>
@@ -35,7 +35,7 @@ int main(){
     //Push the number without thinking if the char is a number
     //Then if the stack is empty push the operator into the stack 
     //But if the stack is having anything then we have to do this thing:
-    //If the priyorith of the current operator is strictly greter then the top of the operator then push the element onto the stack;
+    //If the priyority of the current operator is strictly greter then the top of the operator then push the element onto the stack;
     //If the priority is >= to the top of the operator then set this current element on the top of the strictly small operaor:
     
     stack<int> num;

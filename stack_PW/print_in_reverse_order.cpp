@@ -9,7 +9,7 @@ using namespace std;
         s.pop();
         reverse(s);
         s.push(temps);
-        // cout<<s.top()<<" ";
+        cout<<s.top()<<" ";
     }
 
 int main(){
@@ -21,6 +21,7 @@ int main(){
     s.push(5);
     s.push(6);
     reverse(s);
+    cout<<endl;
     while(!s.empty()){
         cout<<s.top()<<" ";
         s.pop();    

@@ -26,6 +26,9 @@ class Node{
         return max(root->val,max(lm,rm));
     }
 
+//And here we can rightdown this code in just only one line:
+// return (!root) ? -1 : max(root->val,max( maxindiff(root->left), maxindiff(root->right))) 
+
 int main(){
     Node* a=new Node(1);
     Node* b=new Node(2);

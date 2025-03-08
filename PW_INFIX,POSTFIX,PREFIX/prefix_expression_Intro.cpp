@@ -19,6 +19,7 @@ using namespace std;
 //And now we treat the *6 4 as a seperate entity:
 
 //Now step 2 :2 + /* 6 4 8-3
+
 //Now step 3 :+ 2 /* 6 4 8 - 3 
 //Now step 4 : - + 2 /* 6 4 8 3--->At the end we have converted the infix to the post fix;
 //Now computer able to solve the prefix exp;

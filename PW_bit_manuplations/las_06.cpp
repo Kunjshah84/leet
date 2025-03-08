@@ -12,5 +12,6 @@ int main(){
         cp&=(cp-1);
     }
     cout<<"Min number of bit flip to make those number same:----"<<counter<<endl;
+    //Watch the last video of the pw course:
     return 0;
 }

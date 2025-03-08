@@ -1,3 +1,6 @@
+
+//Do this after reading the theories:
+
 #include<iostream>
 using namespace std;
 //We are going to do the BFS and DFS in this code:
@@ -13,6 +16,15 @@ class Node{
     }
 };
 
+//This is the normal disply method for the BT:
+
+void display(Node* temp){
+    if(!temp)   return ;
+    cout<<temp->val<<" ";
+    display(temp->left);
+    display(temp->right);
+}
+
 int main(){
     Node* a=new Node(1);
     Node* b=new Node(2);
@@ -23,5 +35,6 @@ int main(){
     a->right=c;
     b->left=d;
     b->right=e;
+    display(a);
     return 0;
 } 

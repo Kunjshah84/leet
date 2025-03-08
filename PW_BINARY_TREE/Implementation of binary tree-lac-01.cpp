@@ -21,7 +21,8 @@ class Node{
     }
 
 int main(){
-    //From this we can only add the node of the tree with our hand:
+    //From this we can only ad
+    d the node of the tree with our hand:
     Node* a=new Node(1);
     Node* b=new Node(2);
     Node* c=new Node(3);
