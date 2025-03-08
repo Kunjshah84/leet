@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/Kunjshah84/leet/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kunjshah84/leet/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/Kunjshah84/leet/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kunjshah84/leet/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Kunjshah84/leet/tree/master/0075-sort-colors) |
@@ -260,6 +261,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Kunjshah84/leet/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunjshah84/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kunjshah84/leet/tree/master/0152-maximum-product-subarray) |
 | [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
@@ -405,6 +407,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Kunjshah84/leet/tree/master/0055-jump-game) |
 | [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Kunjshah84/leet/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Kunjshah84/leet/tree/master/0780-max-chunks-to-make-sorted) |
