@@ -71,6 +71,7 @@
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kunjshah84/leet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3427-special-array-ii](https://github.com/Kunjshah84/leet/tree/master/3427-special-array-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kunjshah84/leet/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Kunjshah84/leet/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -334,6 +335,7 @@
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [1138-grumpy-bookstore-owner](https://github.com/Kunjshah84/leet/tree/master/1138-grumpy-bookstore-owner) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3483-alternating-groups-ii](https://github.com/Kunjshah84/leet/tree/master/3483-alternating-groups-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
