@@ -70,6 +70,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Kunjshah84/leet/tree/master/2792-neighboring-bitwise-xor) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kunjshah84/leet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3427-special-array-ii](https://github.com/Kunjshah84/leet/tree/master/3427-special-array-ii) |
+| [3430-count-days-without-meetings](https://github.com/Kunjshah84/leet/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kunjshah84/leet/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Kunjshah84/leet/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
@@ -406,6 +407,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kunjshah84/leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3430-count-days-without-meetings](https://github.com/Kunjshah84/leet/tree/master/3430-count-days-without-meetings) |
 ## Greedy
 |  |
 | ------- |
