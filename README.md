@@ -32,6 +32,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kunjshah84/leet/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Kunjshah84/leet/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Kunjshah84/leet/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
@@ -451,6 +452,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kunjshah84/leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Kunjshah84/leet/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Kunjshah84/leet/tree/master/0275-h-index-ii) |
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kunjshah84/leet/tree/master/0538-convert-bst-to-greater-tree) |
 | [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
