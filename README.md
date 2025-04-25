@@ -35,6 +35,7 @@
 | [0268-missing-number](https://github.com/Kunjshah84/leet/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Kunjshah84/leet/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
@@ -268,6 +269,7 @@
 | [0055-jump-game](https://github.com/Kunjshah84/leet/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunjshah84/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Kunjshah84/leet/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kunjshah84/leet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -401,6 +403,7 @@
 | [0229-majority-element-ii](https://github.com/Kunjshah84/leet/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kunjshah84/leet/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Kunjshah84/leet/tree/master/0780-max-chunks-to-make-sorted) |
 | [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
@@ -414,6 +417,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Kunjshah84/leet/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Kunjshah84/leet/tree/master/0670-maximum-swap) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Kunjshah84/leet/tree/master/0780-max-chunks-to-make-sorted) |
