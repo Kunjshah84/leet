@@ -220,6 +220,7 @@
 | [0040-combination-sum-ii](https://github.com/Kunjshah84/leet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kunjshah84/leet/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kunjshah84/leet/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Kunjshah84/leet/tree/master/0052-n-queens-ii) |
 | [0090-subsets-ii](https://github.com/Kunjshah84/leet/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kunjshah84/leet/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
