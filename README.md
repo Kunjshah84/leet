@@ -13,6 +13,7 @@
 | [0040-combination-sum-ii](https://github.com/Kunjshah84/leet/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kunjshah84/leet/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Kunjshah84/leet/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Kunjshah84/leet/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Kunjshah84/leet/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Kunjshah84/leet/tree/master/0057-insert-interval) |
@@ -218,6 +219,7 @@
 | [0039-combination-sum](https://github.com/Kunjshah84/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kunjshah84/leet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kunjshah84/leet/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Kunjshah84/leet/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/Kunjshah84/leet/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kunjshah84/leet/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
