@@ -9,6 +9,7 @@
 | [0018-4sum](https://github.com/Kunjshah84/leet/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Kunjshah84/leet/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunjshah84/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Kunjshah84/leet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kunjshah84/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kunjshah84/leet/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
@@ -85,6 +86,7 @@
 | [0001-two-sum](https://github.com/Kunjshah84/leet/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Kunjshah84/leet/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Kunjshah84/leet/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Kunjshah84/leet/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -216,6 +218,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Kunjshah84/leet/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kunjshah84/leet/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kunjshah84/leet/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kunjshah84/leet/tree/master/0046-permutations) |
@@ -524,6 +527,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kunjshah84/leet/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kunjshah84/leet/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
