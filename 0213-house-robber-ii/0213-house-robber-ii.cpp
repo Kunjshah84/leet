@@ -1,11 +1,13 @@
 class Solution {
 
     int get(vector<int> &nums,int n,int s){
-        vector<int> dp(n,-1);
-        dp[s]=nums[s];
-        dp[s+1]=max(nums[s],nums[s+1]);
-        for(int i=s+2;i<n;i++)  dp[i]=max((nums[i]+dp[i-2]),dp[i-1]);
-        return dp[n-1];
+        int pre1=max(nums[s+1],nums[s]),pre2=nums[s];
+        for(int i=s+2;i<n;i++){
+            int temp=pre1;
+            pre1=max((nums[i]+pre2),pre1);
+            pre2=temp;
+        }
+        return pre1;
     }
 
 public:
