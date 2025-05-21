@@ -44,6 +44,7 @@
 | [0268-missing-number](https://github.com/Kunjshah84/leet/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/Kunjshah84/leet/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
+| [0416-partition-equal-subset-sum](https://github.com/Kunjshah84/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
@@ -295,6 +296,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kunjshah84/leet/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kunjshah84/leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kunjshah84/leet/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/Kunjshah84/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [0967-minimum-falling-path-sum](https://github.com/Kunjshah84/leet/tree/master/0967-minimum-falling-path-sum) |
 | [1503-reducing-dishes](https://github.com/Kunjshah84/leet/tree/master/1503-reducing-dishes) |
