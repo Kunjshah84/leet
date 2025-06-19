@@ -240,6 +240,7 @@
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kunjshah84/leet/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Kunjshah84/leet/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kunjshah84/leet/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -254,6 +255,7 @@
 | [2509-minimize-xor](https://github.com/Kunjshah84/leet/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kunjshah84/leet/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kunjshah84/leet/tree/master/2792-neighboring-bitwise-xor) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kunjshah84/leet/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## String
 |  |
 | ------- |
@@ -283,6 +285,7 @@
 | [2576-minimum-penalty-for-a-shop](https://github.com/Kunjshah84/leet/tree/master/2576-minimum-penalty-for-a-shop) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kunjshah84/leet/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3447-clear-digits](https://github.com/Kunjshah84/leet/tree/master/3447-clear-digits) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kunjshah84/leet/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
