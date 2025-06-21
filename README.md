@@ -190,6 +190,7 @@
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kunjshah84/leet/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0669-trim-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Kunjshah84/leet/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -477,6 +478,7 @@
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kunjshah84/leet/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
@@ -554,6 +556,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -595,4 +598,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kunjshah84/leet/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
