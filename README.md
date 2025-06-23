@@ -36,6 +36,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kunjshah84/leet/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Kunjshah84/leet/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Kunjshah84/leet/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Kunjshah84/leet/tree/master/0229-majority-element-ii) |
@@ -183,6 +184,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kunjshah84/leet/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kunjshah84/leet/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kunjshah84/leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -477,6 +479,7 @@
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kunjshah84/leet/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -556,6 +559,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
@@ -565,6 +569,7 @@
 | [0064-minimum-path-sum](https://github.com/Kunjshah84/leet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Kunjshah84/leet/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Kunjshah84/leet/tree/master/0289-game-of-life) |
 | [0967-minimum-falling-path-sum](https://github.com/Kunjshah84/leet/tree/master/0967-minimum-falling-path-sum) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kunjshah84/leet/tree/master/2685-first-completely-painted-row-or-column) |
