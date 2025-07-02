@@ -149,6 +149,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Kunjshah84/leet/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0110-balanced-binary-tree) |
@@ -207,6 +209,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -508,6 +511,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunjshah84/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kunjshah84/leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
