@@ -36,6 +36,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kunjshah84/leet/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Kunjshah84/leet/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Kunjshah84/leet/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Kunjshah84/leet/tree/master/0229-majority-element-ii) |
@@ -50,11 +51,13 @@
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
+| [0733-flood-fill](https://github.com/Kunjshah84/leet/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Kunjshah84/leet/tree/master/0780-max-chunks-to-make-sorted) |
 | [0859-design-circular-deque](https://github.com/Kunjshah84/leet/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Kunjshah84/leet/tree/master/0860-design-circular-queue) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0967-minimum-falling-path-sum](https://github.com/Kunjshah84/leet/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/Kunjshah84/leet/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1138-grumpy-bookstore-owner](https://github.com/Kunjshah84/leet/tree/master/1138-grumpy-bookstore-owner) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -146,6 +149,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -153,6 +157,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kunjshah84/leet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kunjshah84/leet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kunjshah84/leet/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
@@ -167,6 +172,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Kunjshah84/leet/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
@@ -177,12 +183,15 @@
 | ------- |
 | [0079-word-search](https://github.com/Kunjshah84/leet/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kunjshah84/leet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kunjshah84/leet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kunjshah84/leet/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kunjshah84/leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -190,7 +199,9 @@
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Kunjshah84/leet/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 | [0669-trim-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0669-trim-a-binary-search-tree) |
+| [0733-flood-fill](https://github.com/Kunjshah84/leet/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/Kunjshah84/leet/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
@@ -199,6 +210,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -206,6 +218,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kunjshah84/leet/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kunjshah84/leet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kunjshah84/leet/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
@@ -220,6 +233,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Kunjshah84/leet/tree/master/0975-range-sum-of-bst) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
@@ -300,6 +314,7 @@
 | [0070-climbing-stairs](https://github.com/Kunjshah84/leet/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Kunjshah84/leet/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunjshah84/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kunjshah84/leet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Kunjshah84/leet/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Kunjshah84/leet/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kunjshah84/leet/tree/master/0198-house-robber) |
@@ -476,7 +491,12 @@
 | [0100-same-tree](https://github.com/Kunjshah84/leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kunjshah84/leet/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Kunjshah84/leet/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
+| [0733-flood-fill](https://github.com/Kunjshah84/leet/tree/master/0733-flood-fill) |
+| [0998-check-completeness-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0998-check-completeness-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Kunjshah84/leet/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
@@ -494,6 +514,7 @@
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kunjshah84/leet/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kunjshah84/leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -554,6 +575,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 ## Matrix
 |  |
 | ------- |
@@ -562,8 +585,11 @@
 | [0064-minimum-path-sum](https://github.com/Kunjshah84/leet/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Kunjshah84/leet/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Kunjshah84/leet/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/Kunjshah84/leet/tree/master/0289-game-of-life) |
+| [0733-flood-fill](https://github.com/Kunjshah84/leet/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Kunjshah84/leet/tree/master/0967-minimum-falling-path-sum) |
+| [1036-rotting-oranges](https://github.com/Kunjshah84/leet/tree/master/1036-rotting-oranges) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kunjshah84/leet/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
 |  |
@@ -595,4 +621,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kunjshah84/leet/tree/master/0062-unique-paths) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
