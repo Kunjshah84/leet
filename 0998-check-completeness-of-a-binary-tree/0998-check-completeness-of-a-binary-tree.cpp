@@ -15,8 +15,10 @@ public:
         vector<int> ans; 
         queue<TreeNode*> q;
         q.push(root);
+        bool flg=0;
         while(!q.empty()){
-            if(!q.front())   ans.push_back(-1);
+            if(flg && q.front())    return 0;
+            if(!q.front())  flg=1;
             else{
                 TreeNode* temp=q.front();
                 ans.push_back(temp->val);
@@ -24,11 +26,6 @@ public:
                 q.push(temp->right);
             }
             q.pop();
-        }
-        bool flg=0;
-        for(auto it:ans){
-            if(it==-1)  flg=1;
-            if(flg && it!=-1)   return 0;
         }
         return 1;
     }
