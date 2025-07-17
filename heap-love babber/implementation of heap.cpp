@@ -14,10 +14,9 @@ class max_heap{
         size++;
         int ind = size;
         arr[ind]=val;
-        ind--;
         while(ind>1){
             int par=ind/2;
-            if(arr[par]<val)    swap(arr[ind],arr[ind+1]);
+            if(arr[par]<val)    swap(arr[ind],arr[ind]);
             else return ;
             ind=par;  
         }
@@ -44,6 +43,7 @@ class max_heap{
             }
             else return ;
         }
+        // This function is also having some of the issues in order to implementation of the heap!
     }
 
     void print(){
@@ -77,7 +77,7 @@ class max_heap{
 int main(){
     // Time complexity inorder to insert the value is O(lo(numsber of nodes)))
     // For the function of the heapify we have to do this
-    // for(int i=(size/2);i>0;i++){
+    // for(int i=(size/2);i>0;i-- ){
         // call the heapify(arr,size,i);
     // } 
 
