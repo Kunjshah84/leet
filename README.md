@@ -62,6 +62,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Kunjshah84/leet/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Kunjshah84/leet/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/Kunjshah84/leet/tree/master/1073-number-of-enclaves) |
 | [1138-grumpy-bookstore-owner](https://github.com/Kunjshah84/leet/tree/master/1138-grumpy-bookstore-owner) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kunjshah84/leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -210,6 +211,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Kunjshah84/leet/tree/master/0733-flood-fill) |
 | [0975-range-sum-of-bst](https://github.com/Kunjshah84/leet/tree/master/0975-range-sum-of-bst) |
+| [1073-number-of-enclaves](https://github.com/Kunjshah84/leet/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -522,6 +524,7 @@
 | [0733-flood-fill](https://github.com/Kunjshah84/leet/tree/master/0733-flood-fill) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Kunjshah84/leet/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Kunjshah84/leet/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1876-map-of-highest-peak](https://github.com/Kunjshah84/leet/tree/master/1876-map-of-highest-peak) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -607,6 +610,7 @@
 | [0130-surrounded-regions](https://github.com/Kunjshah84/leet/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Kunjshah84/leet/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/Kunjshah84/leet/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
@@ -621,6 +625,7 @@
 | [0733-flood-fill](https://github.com/Kunjshah84/leet/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Kunjshah84/leet/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Kunjshah84/leet/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/Kunjshah84/leet/tree/master/1073-number-of-enclaves) |
 | [1876-map-of-highest-peak](https://github.com/Kunjshah84/leet/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kunjshah84/leet/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
