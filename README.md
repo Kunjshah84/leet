@@ -75,6 +75,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Kunjshah84/leet/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Kunjshah84/leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kunjshah84/leet/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1876-map-of-highest-peak](https://github.com/Kunjshah84/leet/tree/master/1876-map-of-highest-peak) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Kunjshah84/leet/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kunjshah84/leet/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kunjshah84/leet/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -519,6 +520,7 @@
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Kunjshah84/leet/tree/master/1036-rotting-oranges) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Kunjshah84/leet/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/Kunjshah84/leet/tree/master/1876-map-of-highest-peak) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
@@ -614,6 +616,7 @@
 | [0733-flood-fill](https://github.com/Kunjshah84/leet/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Kunjshah84/leet/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Kunjshah84/leet/tree/master/1036-rotting-oranges) |
+| [1876-map-of-highest-peak](https://github.com/Kunjshah84/leet/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kunjshah84/leet/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
 |  |
