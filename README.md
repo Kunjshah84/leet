@@ -211,6 +211,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/Kunjshah84/leet/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Kunjshah84/leet/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Kunjshah84/leet/tree/master/0820-find-eventual-safe-states) |
 | [0975-range-sum-of-bst](https://github.com/Kunjshah84/leet/tree/master/0975-range-sum-of-bst) |
 | [1073-number-of-enclaves](https://github.com/Kunjshah84/leet/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -524,6 +525,7 @@
 | [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Kunjshah84/leet/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Kunjshah84/leet/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Kunjshah84/leet/tree/master/0820-find-eventual-safe-states) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Kunjshah84/leet/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Kunjshah84/leet/tree/master/1073-number-of-enclaves) |
@@ -667,8 +669,13 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Kunjshah84/leet/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Kunjshah84/leet/tree/master/0801-is-graph-bipartite) |
+| [0820-find-eventual-safe-states](https://github.com/Kunjshah84/leet/tree/master/0820-find-eventual-safe-states) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kunjshah84/leet/tree/master/0215-kth-largest-element-in-an-array) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Kunjshah84/leet/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
