@@ -28,6 +28,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Kunjshah84/leet/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kunjshah84/leet/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunjshah84/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Kunjshah84/leet/tree/master/0128-longest-consecutive-sequence) |
@@ -326,6 +327,7 @@
 | [0063-unique-paths-ii](https://github.com/Kunjshah84/leet/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Kunjshah84/leet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kunjshah84/leet/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Kunjshah84/leet/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kunjshah84/leet/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunjshah84/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kunjshah84/leet/tree/master/0124-binary-tree-maximum-path-sum) |
