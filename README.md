@@ -50,6 +50,7 @@
 | [0275-h-index-ii](https://github.com/Kunjshah84/leet/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Kunjshah84/leet/tree/master/0289-game-of-life) |
+| [0403-frog-jump](https://github.com/Kunjshah84/leet/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Kunjshah84/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
@@ -343,6 +344,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kunjshah84/leet/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Kunjshah84/leet/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Kunjshah84/leet/tree/master/0213-house-robber-ii) |
+| [0403-frog-jump](https://github.com/Kunjshah84/leet/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Kunjshah84/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kunjshah84/leet/tree/master/0803-cheapest-flights-within-k-stops) |
