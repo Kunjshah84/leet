@@ -367,6 +367,7 @@
 | [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kunjshah84/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kunjshah84/leet/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Kunjshah84/leet/tree/master/0326-power-of-three) |
 | [0633-sum-of-square-numbers](https://github.com/Kunjshah84/leet/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/Kunjshah84/leet/tree/master/0670-maximum-swap) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
@@ -381,6 +382,7 @@
 | [0050-powx-n](https://github.com/Kunjshah84/leet/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Kunjshah84/leet/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Kunjshah84/leet/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Kunjshah84/leet/tree/master/0326-power-of-three) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Kunjshah84/leet/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
