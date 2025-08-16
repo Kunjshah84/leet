@@ -86,6 +86,7 @@
 | [1881-closest-subsequence-sum](https://github.com/Kunjshah84/leet/tree/master/1881-closest-subsequence-sum) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Kunjshah84/leet/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kunjshah84/leet/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kunjshah84/leet/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kunjshah84/leet/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Kunjshah84/leet/tree/master/2294-minimum-time-to-complete-trips) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kunjshah84/leet/tree/master/2448-count-number-of-bad-pairs) |
@@ -291,6 +292,7 @@
 | [0795-k-th-symbol-in-grammar](https://github.com/Kunjshah84/leet/tree/master/0795-k-th-symbol-in-grammar) |
 | [1881-closest-subsequence-sum](https://github.com/Kunjshah84/leet/tree/master/1881-closest-subsequence-sum) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Kunjshah84/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kunjshah84/leet/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kunjshah84/leet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Kunjshah84/leet/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Kunjshah84/leet/tree/master/2509-minimize-xor) |
@@ -360,6 +362,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kunjshah84/leet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1881-closest-subsequence-sum](https://github.com/Kunjshah84/leet/tree/master/1881-closest-subsequence-sum) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kunjshah84/leet/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kunjshah84/leet/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -496,6 +499,7 @@
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/Kunjshah84/leet/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1881-closest-subsequence-sum](https://github.com/Kunjshah84/leet/tree/master/1881-closest-subsequence-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kunjshah84/leet/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kunjshah84/leet/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kunjshah84/leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -606,6 +610,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kunjshah84/leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1646-kth-missing-positive-number](https://github.com/Kunjshah84/leet/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Kunjshah84/leet/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kunjshah84/leet/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Kunjshah84/leet/tree/master/2294-minimum-time-to-complete-trips) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/Kunjshah84/leet/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3427-special-array-ii](https://github.com/Kunjshah84/leet/tree/master/3427-special-array-ii) |
@@ -696,6 +701,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kunjshah84/leet/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2434-design-a-number-container-system](https://github.com/Kunjshah84/leet/tree/master/2434-design-a-number-container-system) |
 ## Memoization
 |  |
@@ -739,4 +745,5 @@
 |  |
 | ------- |
 | [1881-closest-subsequence-sum](https://github.com/Kunjshah84/leet/tree/master/1881-closest-subsequence-sum) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kunjshah84/leet/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
