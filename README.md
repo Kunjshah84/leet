@@ -55,6 +55,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Kunjshah84/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Kunjshah84/leet/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kunjshah84/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
@@ -279,6 +280,7 @@
 | [0131-palindrome-partitioning](https://github.com/Kunjshah84/leet/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Kunjshah84/leet/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/Kunjshah84/leet/tree/master/0494-target-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Kunjshah84/leet/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Kunjshah84/leet/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Kunjshah84/leet/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -355,6 +357,7 @@
 | [0403-frog-jump](https://github.com/Kunjshah84/leet/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Kunjshah84/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Kunjshah84/leet/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kunjshah84/leet/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Kunjshah84/leet/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kunjshah84/leet/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
