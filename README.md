@@ -318,6 +318,7 @@
 | [0205-isomorphic-strings](https://github.com/Kunjshah84/leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
+| [0516-longest-palindromic-subsequence](https://github.com/Kunjshah84/leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Kunjshah84/leet/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Kunjshah84/leet/tree/master/0812-rotate-string) |
@@ -360,6 +361,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Kunjshah84/leet/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Kunjshah84/leet/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Kunjshah84/leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Kunjshah84/leet/tree/master/0518-coin-change-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kunjshah84/leet/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Kunjshah84/leet/tree/master/0967-minimum-falling-path-sum) |
