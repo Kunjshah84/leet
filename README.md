@@ -109,6 +109,7 @@
 | [3427-special-array-ii](https://github.com/Kunjshah84/leet/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/Kunjshah84/leet/tree/master/3430-count-days-without-meetings) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kunjshah84/leet/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kunjshah84/leet/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3483-alternating-groups-ii](https://github.com/Kunjshah84/leet/tree/master/3483-alternating-groups-ii) |
 ## Hash Table
 |  |
@@ -661,6 +662,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kunjshah84/leet/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -704,6 +706,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Kunjshah84/leet/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Kunjshah84/leet/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kunjshah84/leet/tree/master/2685-first-completely-painted-row-or-column) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kunjshah84/leet/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## String Matching
 |  |
 | ------- |
