@@ -82,6 +82,7 @@
 | [1559-cherry-pickup-ii](https://github.com/Kunjshah84/leet/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Kunjshah84/leet/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kunjshah84/leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Kunjshah84/leet/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Kunjshah84/leet/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1646-kth-missing-positive-number](https://github.com/Kunjshah84/leet/tree/master/1646-kth-missing-positive-number) |
@@ -634,6 +635,7 @@
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kunjshah84/leet/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Kunjshah84/leet/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Kunjshah84/leet/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Kunjshah84/leet/tree/master/1646-kth-missing-positive-number) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Kunjshah84/leet/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kunjshah84/leet/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
