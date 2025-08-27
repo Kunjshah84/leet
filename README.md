@@ -322,6 +322,7 @@
 | [0014-longest-common-prefix](https://github.com/Kunjshah84/leet/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Kunjshah84/leet/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Kunjshah84/leet/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Kunjshah84/leet/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/Kunjshah84/leet/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Kunjshah84/leet/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Kunjshah84/leet/tree/master/0151-reverse-words-in-a-string) |
@@ -359,6 +360,7 @@
 | [0064-minimum-path-sum](https://github.com/Kunjshah84/leet/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kunjshah84/leet/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Kunjshah84/leet/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/Kunjshah84/leet/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Kunjshah84/leet/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Kunjshah84/leet/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kunjshah84/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
