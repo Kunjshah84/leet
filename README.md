@@ -115,6 +115,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Kunjshah84/leet/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kunjshah84/leet/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3483-alternating-groups-ii](https://github.com/Kunjshah84/leet/tree/master/3483-alternating-groups-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Kunjshah84/leet/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
 | ------- |
@@ -560,6 +561,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3430-count-days-without-meetings](https://github.com/Kunjshah84/leet/tree/master/3430-count-days-without-meetings) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Kunjshah84/leet/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
 |  |
 | ------- |
@@ -718,6 +720,7 @@
 | [1876-map-of-highest-peak](https://github.com/Kunjshah84/leet/tree/master/1876-map-of-highest-peak) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Kunjshah84/leet/tree/master/2685-first-completely-painted-row-or-column) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kunjshah84/leet/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Kunjshah84/leet/tree/master/3748-sort-matrix-by-diagonals) |
 ## String Matching
 |  |
 | ------- |
