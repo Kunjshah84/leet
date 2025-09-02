@@ -110,6 +110,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Kunjshah84/leet/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Kunjshah84/leet/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Kunjshah84/leet/tree/master/2792-neighboring-bitwise-xor) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kunjshah84/leet/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Kunjshah84/leet/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3427-special-array-ii](https://github.com/Kunjshah84/leet/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/Kunjshah84/leet/tree/master/3430-count-days-without-meetings) |
@@ -417,6 +418,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Kunjshah84/leet/tree/master/2032-largest-odd-number-in-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kunjshah84/leet/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Kunjshah84/leet/tree/master/2649-count-total-number-of-colored-cells) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kunjshah84/leet/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Recursion
 |  |
 | ------- |
@@ -562,6 +564,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Kunjshah84/leet/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Kunjshah84/leet/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Kunjshah84/leet/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kunjshah84/leet/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/Kunjshah84/leet/tree/master/3430-count-days-without-meetings) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Kunjshah84/leet/tree/master/3748-sort-matrix-by-diagonals) |
 ## Greedy
@@ -678,6 +681,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Kunjshah84/leet/tree/master/0204-count-primes) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kunjshah84/leet/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Kunjshah84/leet/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Number Theory
 |  |
@@ -791,4 +795,8 @@
 | ------- |
 | [1881-closest-subsequence-sum](https://github.com/Kunjshah84/leet/tree/master/1881-closest-subsequence-sum) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kunjshah84/leet/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Geometry
+|  |
+| ------- |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Kunjshah84/leet/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
