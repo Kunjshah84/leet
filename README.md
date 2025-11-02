@@ -99,6 +99,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Kunjshah84/leet/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/Kunjshah84/leet/tree/master/1917-maximum-average-pass-ratio) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Kunjshah84/leet/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2227-sum-of-subarray-ranges](https://github.com/Kunjshah84/leet/tree/master/2227-sum-of-subarray-ranges) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Kunjshah84/leet/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2294-minimum-time-to-complete-trips](https://github.com/Kunjshah84/leet/tree/master/2294-minimum-time-to-complete-trips) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kunjshah84/leet/tree/master/2448-count-number-of-bad-pairs) |
@@ -176,6 +177,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Kunjshah84/leet/tree/master/1628-count-submatrices-with-all-ones) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Kunjshah84/leet/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kunjshah84/leet/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2227-sum-of-subarray-ranges](https://github.com/Kunjshah84/leet/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Kunjshah84/leet/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Kunjshah84/leet/tree/master/2573-remove-nodes-from-linked-list) |
 | [3447-clear-digits](https://github.com/Kunjshah84/leet/tree/master/3447-clear-digits) |
@@ -447,6 +449,7 @@
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Kunjshah84/leet/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Kunjshah84/leet/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Kunjshah84/leet/tree/master/1628-count-submatrices-with-all-ones) |
+| [2227-sum-of-subarray-ranges](https://github.com/Kunjshah84/leet/tree/master/2227-sum-of-subarray-ranges) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Kunjshah84/leet/tree/master/2573-remove-nodes-from-linked-list) |
 ## Design
 |  |
