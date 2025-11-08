@@ -166,6 +166,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Kunjshah84/leet/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Kunjshah84/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kunjshah84/leet/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/Kunjshah84/leet/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/Kunjshah84/leet/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Kunjshah84/leet/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kunjshah84/leet/tree/master/0943-sum-of-subarray-minimums) |
@@ -341,6 +342,7 @@
 | [0205-isomorphic-strings](https://github.com/Kunjshah84/leet/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Kunjshah84/leet/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Kunjshah84/leet/tree/master/0257-binary-tree-paths) |
+| [0402-remove-k-digits](https://github.com/Kunjshah84/leet/tree/master/0402-remove-k-digits) |
 | [0516-longest-palindromic-subsequence](https://github.com/Kunjshah84/leet/tree/master/0516-longest-palindromic-subsequence) |
 | [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
 | [0778-reorganize-string](https://github.com/Kunjshah84/leet/tree/master/0778-reorganize-string) |
@@ -445,6 +447,7 @@
 | [0042-trapping-rain-water](https://github.com/Kunjshah84/leet/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kunjshah84/leet/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Kunjshah84/leet/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Kunjshah84/leet/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Kunjshah84/leet/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/Kunjshah84/leet/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kunjshah84/leet/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -586,6 +589,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/Kunjshah84/leet/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kunjshah84/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0402-remove-k-digits](https://github.com/Kunjshah84/leet/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kunjshah84/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
