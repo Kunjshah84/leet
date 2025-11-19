@@ -62,6 +62,7 @@
 | [0494-target-sum](https://github.com/Kunjshah84/leet/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Kunjshah84/leet/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Kunjshah84/leet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kunjshah84/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Kunjshah84/leet/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -142,6 +143,7 @@
 | [0268-missing-number](https://github.com/Kunjshah84/leet/tree/master/0268-missing-number) |
 | [0460-lfu-cache](https://github.com/Kunjshah84/leet/tree/master/0460-lfu-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Kunjshah84/leet/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Kunjshah84/leet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kunjshah84/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Kunjshah84/leet/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-reorganize-string](https://github.com/Kunjshah84/leet/tree/master/0778-reorganize-string) |
@@ -503,6 +505,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Kunjshah84/leet/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Kunjshah84/leet/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Kunjshah84/leet/tree/master/0295-find-median-from-data-stream) |
+| [0621-task-scheduler](https://github.com/Kunjshah84/leet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kunjshah84/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/Kunjshah84/leet/tree/master/0778-reorganize-string) |
@@ -578,6 +581,7 @@
 | [0268-missing-number](https://github.com/Kunjshah84/leet/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Kunjshah84/leet/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Kunjshah84/leet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kunjshah84/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Kunjshah84/leet/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/Kunjshah84/leet/tree/master/0778-reorganize-string) |
@@ -599,6 +603,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kunjshah84/leet/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Kunjshah84/leet/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Kunjshah84/leet/tree/master/0435-non-overlapping-intervals) |
+| [0621-task-scheduler](https://github.com/Kunjshah84/leet/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Kunjshah84/leet/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0649-dota2-senate](https://github.com/Kunjshah84/leet/tree/master/0649-dota2-senate) |
 | [0670-maximum-swap](https://github.com/Kunjshah84/leet/tree/master/0670-maximum-swap) |
@@ -721,6 +726,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Kunjshah84/leet/tree/master/0229-majority-element-ii) |
+| [0621-task-scheduler](https://github.com/Kunjshah84/leet/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Kunjshah84/leet/tree/master/0778-reorganize-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/Kunjshah84/leet/tree/master/2448-count-number-of-bad-pairs) |
 ## Union Find
