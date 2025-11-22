@@ -53,6 +53,7 @@
 | [0275-h-index-ii](https://github.com/Kunjshah84/leet/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/Kunjshah84/leet/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/Kunjshah84/leet/tree/master/0289-game-of-life) |
+| [0307-range-sum-query-mutable](https://github.com/Kunjshah84/leet/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Kunjshah84/leet/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/Kunjshah84/leet/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Kunjshah84/leet/tree/master/0403-frog-jump) |
@@ -471,6 +472,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Kunjshah84/leet/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kunjshah84/leet/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Kunjshah84/leet/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/Kunjshah84/leet/tree/master/0307-range-sum-query-mutable) |
 | [0460-lfu-cache](https://github.com/Kunjshah84/leet/tree/master/0460-lfu-cache) |
 | [0859-design-circular-deque](https://github.com/Kunjshah84/leet/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/Kunjshah84/leet/tree/master/0860-design-circular-queue) |
@@ -656,6 +658,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Kunjshah84/leet/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kunjshah84/leet/tree/master/0215-kth-largest-element-in-an-array) |
+| [0307-range-sum-query-mutable](https://github.com/Kunjshah84/leet/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Kunjshah84/leet/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1285-balance-a-binary-search-tree](https://github.com/Kunjshah84/leet/tree/master/1285-balance-a-binary-search-tree) |
@@ -771,10 +774,12 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Kunjshah84/leet/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/Kunjshah84/leet/tree/master/0307-range-sum-query-mutable) |
 | [0493-reverse-pairs](https://github.com/Kunjshah84/leet/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
